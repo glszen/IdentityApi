@@ -35,3 +35,7 @@ This API demonstrates how to:
 - Ensure **data integrity** through **input validation** and **password encryption**.
 
 This approach provides a reliable foundation for managing user accounts in your web application, with a focus on security and user data protection.
+
+## Database Table View
+![image](https://github.com/user-attachments/assets/d074d431-8dba-45d4-b9a9-4b615e8d09b6)
+
